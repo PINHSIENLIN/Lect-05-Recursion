@@ -7,7 +7,6 @@
 
 using namespace std;
 
-
 void Hanoi(int n, char from_rod, char to_rod, char aux_rod, int *ct){
 // if there is a void return type in the function definition, 
 // then there will be no return statement inside that function
